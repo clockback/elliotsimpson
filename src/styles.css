@@ -1,0 +1,15 @@
+body {
+	color: azure;
+	background: #151515;
+	font-family: sans-serif;
+}
+
+main {
+	max-width: 900px;
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
